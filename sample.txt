@@ -1,5 +1,0 @@
-git stash
-git stash list
-git revert
-git log
-git log --online
